@@ -143,7 +143,7 @@ const init = function(){
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerNewRecipe(controlAddNewRecipe);
-  console.log('project-started');
+  console.log('updated project-started');
 }
 init();
 
