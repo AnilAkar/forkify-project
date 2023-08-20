@@ -144,6 +144,7 @@ const init = function(){
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerNewRecipe(controlAddNewRecipe);
   console.log('updated project-started');
+  console.log('welcome');
 }
 init();
 
